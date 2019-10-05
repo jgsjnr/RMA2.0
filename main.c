@@ -4,7 +4,6 @@
 #include "lib/fun.h"
 #include "lib/structs.h"
 #include "lib/quota.h"
-#include <conio.h>
 
 #define PI 3.1415
 int main()
