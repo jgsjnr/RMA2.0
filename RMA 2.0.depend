@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1570133971 source:c:\users\joseg\desktop\new folder\rma 2.0\lib\fun.c
+	<stdio.h>
+	<stdlib.h>
+	"fun.h"
+
+1570133948 c:\users\joseg\desktop\new folder\rma 2.0\lib\fun.h
+
+1570040170 source:c:\users\joseg\desktop\new folder\rma 2.0\lib\structs.c
+	"structs.h"
+
+1570133830 source:c:\users\joseg\desktop\new folder\rma 2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib/fun.h"
+	"lib/structs.h"
+
+1570133708 c:\users\joseg\desktop\new folder\rma 2.0\lib\structs.h
+
+1570312174 source:c:\users\joseg\desktop\rma2\rma 2.0\lib\fun.c
+	<stdio.h>
+	<stdlib.h>
+	"fun.h"
+
+1570311613 c:\users\joseg\desktop\rma2\rma 2.0\lib\fun.h
+
+1570297429 source:c:\users\joseg\desktop\rma2\rma 2.0\lib\quota.c
+	"quota.h"
+
+1570307972 c:\users\joseg\desktop\rma2\rma 2.0\lib\quota.h
+
+1570297439 source:c:\users\joseg\desktop\rma2\rma 2.0\lib\structs.c
+	"structs.h"
+
+1570309020 c:\users\joseg\desktop\rma2\rma 2.0\lib\structs.h
+
+1570312066 source:c:\users\joseg\desktop\rma2\rma 2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"lib/fun.h"
+	"lib/structs.h"
+	"lib/quota.h"
+	<conio.h>
+
