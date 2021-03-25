@@ -1,5 +1,8 @@
 # RMA2.0
 Desenvolvimento da segunda versão do código fonte do sistema de resolução e cálculo em peças de metal, todas as funções.
+# Incluso
+Cálculo com faces e áreas.
+Fórmulas desenvolvidas em C, podendo ser utilizado como biblioteca de funções.
 ## Sistemas disponíveis
 1. Cisalhamento
 2. Rompimento
